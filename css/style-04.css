@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+iframe {
+  width: 500px;
+  height: 700px;
+  border: 0;
+  float: left;
+}
